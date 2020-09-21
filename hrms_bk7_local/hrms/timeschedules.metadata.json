@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.timeschedules"}],"uuid":"b61562b05a054213ab2d78b6a941da24"}

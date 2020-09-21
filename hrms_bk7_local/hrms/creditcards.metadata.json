@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.creditcards"}],"uuid":"345ef431c4f44c61ac4bdeeb3f38de2f"}
