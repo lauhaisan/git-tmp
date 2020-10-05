@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.idcounters"},{"v":{"$numberInt":"2"},"unique":true,"key":{"f":{"$numberInt":"1"},"m":{"$numberInt":"1"}},"name":"f_1_m_1","background":true,"ns":"hrms.idcounters"}],"uuid":"3d16591914974243ba2d51dbe7a0dfab"}
