@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.useradmins"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","background":true,"ns":"hrms.useradmins"}],"uuid":"4cfc2b908cd544fb866688c96a7a1326"}
