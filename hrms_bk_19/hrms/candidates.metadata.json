@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.candidates"},{"v":2,"key":{"privateEmail":1},"name":"privateEmail_1","ns":"hrms.candidates","background":true},{"v":2,"key":{"workEmail":1},"name":"workEmail_1","ns":"hrms.candidates","background":true}],"uuid":"6c5e1217800a4373abb3d2e6f2c015ef"}

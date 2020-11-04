@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.adhaarcards"},{"v":2,"unique":true,"key":{"adhaarNumber":1},"name":"adhaarNumber_1","ns":"hrms.adhaarcards","background":true}],"uuid":"12f1502def714d518566ebc51d29916d"}
