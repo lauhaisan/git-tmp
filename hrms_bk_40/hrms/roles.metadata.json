@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.roles"},{"v":2,"key":{"name":1},"name":"name_1","ns":"hrms.roles","background":true}],"uuid":"79b64a51ad3444df8aa916d78d894115"}
