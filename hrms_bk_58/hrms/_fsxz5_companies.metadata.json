@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._fsxz5_companies"},{"v":2,"unique":true,"key":{"code":1},"name":"code_1","ns":"hrms._fsxz5_companies","background":true}],"uuid":"fb0f16069b94470bb5407f3c83b1e4ae"}
