@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._ucsre_companies"},{"v":2,"unique":true,"key":{"code":1},"name":"code_1","ns":"hrms._ucsre_companies","background":true}],"uuid":"8ac74d26b66c4f6b845a822562963620"}
