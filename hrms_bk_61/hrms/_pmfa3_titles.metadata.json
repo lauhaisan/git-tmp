@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._pmfa3_titles"},{"v":2,"unique":true,"key":{"name":1},"name":"name_1","ns":"hrms._pmfa3_titles","background":true}],"uuid":"18bf92346db94fecbf62438e78f52b66"}
