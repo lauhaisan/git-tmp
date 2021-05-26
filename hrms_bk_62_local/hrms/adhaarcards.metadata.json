@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"adhaarNumber":{"$numberInt":"1"}},"name":"adhaarNumber_1","background":true}],"uuid":"0b56c512fe284d0d97d6fa5d0c124d20","collectionName":"adhaarcards"}
