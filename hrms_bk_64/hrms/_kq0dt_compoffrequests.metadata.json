@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._kq0dt_compoffrequests"},{"v":2,"unique":true,"key":{"ticketID":1},"name":"ticketID_1","ns":"hrms._kq0dt_compoffrequests","background":true}],"uuid":"68f1ff5604214746a9b6e5aa7f1b2c46"}
