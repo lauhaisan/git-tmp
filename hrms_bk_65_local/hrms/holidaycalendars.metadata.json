@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.holidaycalendars"}],"uuid":"ae6c4b79865344b3a737d4a0d1ef1ca3"}

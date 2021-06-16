@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.approvalflowgroups"},{"v":{"$numberInt":"2"},"unique":true,"key":{"name":{"$numberInt":"1"},"location":{"$numberInt":"1"}},"name":"name_1_location_1","ns":"hrms.approvalflowgroups","background":true}],"uuid":"025a91cc879a43d3a7799f553eea1bee"}
