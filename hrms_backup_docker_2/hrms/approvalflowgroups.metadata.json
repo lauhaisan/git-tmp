@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"name":{"$numberInt":"1"},"location":{"$numberInt":"1"}},"name":"name_1_location_1","background":true}],"uuid":"c0c302e993434f32ab8a9f6c720833a5","collectionName":"approvalflowgroups"}

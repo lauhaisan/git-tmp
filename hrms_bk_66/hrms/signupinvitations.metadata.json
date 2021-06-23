@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.signupinvitations"},{"v":2,"unique":true,"key":{"email":1,"invitor":1},"name":"email_1_invitor_1","background":true,"ns":"hrms.signupinvitations"}],"uuid":"04ce5a45737f4414bcc2c79350d41dca"}

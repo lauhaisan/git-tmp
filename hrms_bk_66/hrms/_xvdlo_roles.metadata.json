@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._xvdlo_roles"},{"v":2,"key":{"name":1},"name":"name_1","ns":"hrms._xvdlo_roles","background":true}],"uuid":"3817cdb03bf64b5bb498964e36b42eff"}
