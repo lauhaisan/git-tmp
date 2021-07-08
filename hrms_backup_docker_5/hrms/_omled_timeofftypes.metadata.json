@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d7d513d5357b449a8e49de14918a9b11","collectionName":"_omled_timeofftypes"}
