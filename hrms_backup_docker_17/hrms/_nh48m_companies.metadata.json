@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"code":{"$numberInt":"1"}},"name":"code_1","background":true}],"uuid":"ddec45a6bce54806b19c86e054deb762","collectionName":"_nh48m_companies"}

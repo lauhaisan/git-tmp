@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"ticketID":{"$numberInt":"1"}},"name":"ticketID_1","background":true}],"uuid":"ae681d25c6594d068590b4fdb31f8778","collectionName":"_e6nuf_candidates"}
