@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"firstName":{"$numberInt":"1"}},"name":"firstName_1","background":true},{"v":{"$numberInt":"2"},"key":{"lastName":{"$numberInt":"1"}},"name":"lastName_1","background":true}],"uuid":"539595e7117e4753b4648cf52f0e70b6","collectionName":"_d9nmf_generalinfos"}

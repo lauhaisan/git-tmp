@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"ticketID":{"$numberInt":"1"}},"name":"ticketID_1","background":true}],"uuid":"802c6c68da534e3d972640d67fae15b4","collectionName":"_g1oh2_leaverequests"}

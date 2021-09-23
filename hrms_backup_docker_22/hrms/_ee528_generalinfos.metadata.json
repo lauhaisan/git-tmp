@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"firstName":{"$numberInt":"1"}},"name":"firstName_1","background":true},{"v":{"$numberInt":"2"},"key":{"lastName":{"$numberInt":"1"}},"name":"lastName_1","background":true}],"uuid":"80b844b1b5304d92a4a9cc18929d7df8","collectionName":"_ee528_generalinfos"}
