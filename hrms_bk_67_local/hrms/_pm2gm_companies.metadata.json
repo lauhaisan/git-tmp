@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._pm2gm_companies"},{"v":{"$numberInt":"2"},"unique":true,"key":{"code":{"$numberInt":"1"}},"name":"code_1","background":true,"ns":"hrms._pm2gm_companies"}],"uuid":"593d9f8d49c9449ba421b4323b57e5d5"}

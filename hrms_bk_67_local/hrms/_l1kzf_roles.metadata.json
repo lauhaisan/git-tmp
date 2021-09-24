@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._l1kzf_roles"},{"v":{"$numberInt":"2"},"key":{"name":{"$numberInt":"1"}},"name":"name_1","background":true,"ns":"hrms._l1kzf_roles"}],"uuid":"dc9dffb54d9f43f9a9f12896aaae9644"}

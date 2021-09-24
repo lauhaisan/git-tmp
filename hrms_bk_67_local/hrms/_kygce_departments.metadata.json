@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._kygce_departments"}],"uuid":"cf9810621b424908ae901d465446fdd7"}

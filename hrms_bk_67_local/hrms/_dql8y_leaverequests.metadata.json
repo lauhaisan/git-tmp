@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._dql8y_leaverequests"},{"v":{"$numberInt":"2"},"unique":true,"key":{"ticketID":{"$numberInt":"1"}},"name":"ticketID_1","background":true,"ns":"hrms._dql8y_leaverequests"}],"uuid":"0383254b6bd2445e81c7e0057a74ae2d"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._spmlv_compensations"}],"uuid":"2055647646c442f59ff2b5d414104764"}

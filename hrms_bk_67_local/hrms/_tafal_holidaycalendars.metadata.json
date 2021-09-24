@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._tafal_holidaycalendars"}],"uuid":"e5ca169412d84088a84e9d9cc96037f9"}

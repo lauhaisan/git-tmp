@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._rc4j0_offboardingrequests"},{"v":{"$numberInt":"2"},"unique":true,"key":{"ticketID":{"$numberInt":"1"}},"name":"ticketID_1","background":true,"ns":"hrms._rc4j0_offboardingrequests"}],"uuid":"968ca98f2e96471886435ed1aebd00af"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._scsdt_locations"}],"uuid":"1d7f699cbf03465c872c6aecde8a28c4"}

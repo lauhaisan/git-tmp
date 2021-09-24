@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._f9pi6_companies"},{"v":{"$numberInt":"2"},"unique":true,"key":{"code":{"$numberInt":"1"}},"name":"code_1","background":true,"ns":"hrms._f9pi6_companies"}],"uuid":"de36fcb7e8cb40078dda9a9f4d998b03"}

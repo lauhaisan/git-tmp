@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._eswbg_salarystructures"}],"uuid":"be867d8b708d40d9b74c316e1e17c1db"}

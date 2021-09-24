@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._vm3lt_candidates"},{"v":{"$numberInt":"2"},"unique":true,"key":{"ticketID":{"$numberInt":"1"}},"name":"ticketID_1","background":true,"ns":"hrms._vm3lt_candidates"}],"uuid":"5d8bb7c9252c4e8585c026e1a86c413b"}

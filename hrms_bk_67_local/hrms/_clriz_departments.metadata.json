@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._clriz_departments"}],"uuid":"35799224768a4d648bcaeef27d2a8f8c"}

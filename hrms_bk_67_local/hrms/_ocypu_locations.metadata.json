@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._ocypu_locations"}],"uuid":"23eb6f4305b34aaca668f9753003431f"}

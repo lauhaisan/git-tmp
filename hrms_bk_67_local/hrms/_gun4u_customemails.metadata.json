@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._gun4u_customemails"}],"uuid":"203dd0ba37b04402a9c101707e66a34c"}

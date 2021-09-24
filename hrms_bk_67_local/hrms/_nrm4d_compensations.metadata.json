@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._nrm4d_compensations"}],"uuid":"c6ec67f3c11f45b6a94852f473353006"}

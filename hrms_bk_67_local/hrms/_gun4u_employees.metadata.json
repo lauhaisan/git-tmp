@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._gun4u_employees"}],"uuid":"522f0df1931143d9bc6a95949a391c9c"}

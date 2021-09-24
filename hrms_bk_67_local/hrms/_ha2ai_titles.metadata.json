@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._ha2ai_titles"}],"uuid":"cf89ff6509c64b42b078938d6a8786b9"}

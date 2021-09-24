@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._rc4j0_leavebalances"}],"uuid":"1544b5786ea54032b0423fb9df3bc70e"}

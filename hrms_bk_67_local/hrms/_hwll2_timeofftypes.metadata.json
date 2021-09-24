@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._hwll2_timeofftypes"}],"uuid":"e62acf59e7db4025b6cd23a85a73d9c3"}

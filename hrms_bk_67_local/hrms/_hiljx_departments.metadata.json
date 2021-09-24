@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._hiljx_departments"}],"uuid":"2a4222bd12854e35a5b925c28b770c34"}

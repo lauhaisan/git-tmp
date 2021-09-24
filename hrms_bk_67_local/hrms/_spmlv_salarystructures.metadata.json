@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._spmlv_salarystructures"}],"uuid":"10b831b0dcfd463eb2a67649b79b201e"}

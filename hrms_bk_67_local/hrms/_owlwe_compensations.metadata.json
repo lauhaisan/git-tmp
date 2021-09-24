@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._owlwe_compensations"}],"uuid":"6f15f7fcf80e446985c85dfb3a4cfba9"}

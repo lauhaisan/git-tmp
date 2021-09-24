@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._pbskm_salarystructures"}],"uuid":"1558347d58824298a7a406d6b16599b9"}

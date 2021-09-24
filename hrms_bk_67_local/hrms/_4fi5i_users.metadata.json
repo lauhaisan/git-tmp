@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._4fi5i_users"},{"v":{"$numberInt":"2"},"unique":true,"key":{"email":{"$numberInt":"1"},"company":{"$numberInt":"1"}},"name":"email_1_company_1","background":true,"ns":"hrms._4fi5i_users"}],"uuid":"459f60a798064c6fb101e533cd59db4d"}

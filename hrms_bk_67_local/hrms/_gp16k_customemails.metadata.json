@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._gp16k_customemails"}],"uuid":"ee4c59033efe4079b2dbd2d6050cb2bf"}

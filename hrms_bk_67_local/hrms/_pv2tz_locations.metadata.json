@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._pv2tz_locations"}],"uuid":"e6a8816f949e41379eaaff7fa0db9618"}
