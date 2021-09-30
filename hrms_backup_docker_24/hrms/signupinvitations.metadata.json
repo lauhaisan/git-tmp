@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"email":{"$numberInt":"1"},"invitor":{"$numberInt":"1"}},"name":"email_1_invitor_1","background":true}],"uuid":"35579445f9464f8ca08b6f53703e36fc","collectionName":"signupinvitations"}
