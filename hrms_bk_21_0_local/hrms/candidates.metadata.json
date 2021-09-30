@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"privateEmail":{"$numberInt":"1"}},"name":"privateEmail_1","background":true},{"v":{"$numberInt":"2"},"key":{"workEmail":{"$numberInt":"1"}},"name":"workEmail_1","background":true}],"uuid":"9a316e1b325a455e8120e7527963ecc8","collectionName":"candidates"}

@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"firstName":{"$numberInt":"1"}},"name":"firstName_1","background":true},{"v":{"$numberInt":"2"},"key":{"lastName":{"$numberInt":"1"}},"name":"lastName_1","background":true}],"uuid":"bfe81ddd14f948bea8c3bb9c32fdcd89","collectionName":"_0ghov_generalinfos"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._iac3p_roles"},{"v":{"$numberInt":"2"},"key":{"name":{"$numberInt":"1"}},"name":"name_1","ns":"hrms._iac3p_roles","background":true}],"uuid":"5034b11e38e7479ca6a4dcc91d94dd99"}

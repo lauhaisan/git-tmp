@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"email":{"$numberInt":"1"},"company":{"$numberInt":"1"}},"name":"email_1_company_1","background":true}],"uuid":"55e4ea2094dd493191477e77f3e5ff5d","collectionName":"_zhjru_users"}

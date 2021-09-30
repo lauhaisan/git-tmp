@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._8uhjw_candidates"},{"v":2,"unique":true,"key":{"ticketID":1},"name":"ticketID_1","ns":"hrms._8uhjw_candidates","background":true}],"uuid":"8fee40cb78da44d991c794fba3daa488"}

@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"fileName":{"$numberInt":"1"}},"name":"fileName_1","background":true},{"v":{"$numberInt":"2"},"unique":true,"key":{"path":{"$numberInt":"1"}},"name":"path_1","background":true}],"uuid":"51f6a3bcaef94f63b5c28ff4196f0cbf","collectionName":"attachments"}

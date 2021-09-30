@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.companies"},{"v":2,"unique":true,"key":{"name":1},"name":"name_1","ns":"hrms.companies","background":true},{"v":2,"unique":true,"key":{"code":1},"name":"code_1","ns":"hrms.companies","background":true}],"uuid":"f8c514863ed64904ba84bfcc97cc3967"}

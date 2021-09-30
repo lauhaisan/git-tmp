@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.sessions"},{"v":2,"key":{"expires":1},"name":"expires_1","expireAfterSeconds":0,"ns":"hrms.sessions"}],"uuid":"703d9d8010e54b358b477a6a177e573b"}

@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.approvalflows"},{"v":2,"unique":true,"key":{"name":1,"location":1},"name":"name_1_location_1","ns":"hrms.approvalflows","background":true}],"uuid":"a52b7048dd2842d596f38437908573ac"}

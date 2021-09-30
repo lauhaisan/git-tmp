@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.leaverequests"},{"v":2,"unique":true,"key":{"ticketID":1},"name":"ticketID_1","ns":"hrms.leaverequests","background":true}],"uuid":"45b74786fbf044b98b5114465100f214"}

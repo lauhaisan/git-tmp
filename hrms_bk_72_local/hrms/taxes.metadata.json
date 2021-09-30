@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.taxes"}],"uuid":"a4609180c1f04224b591b6f5c1e4e48a"}

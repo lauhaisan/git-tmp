@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"employee":{"$numberInt":"1"}},"name":"employee_1","background":true}],"uuid":"6d0e73bc882f45ba96be2148807973c4","collectionName":"passports"}

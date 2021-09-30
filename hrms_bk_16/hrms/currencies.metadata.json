@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.currencies"},{"v":2,"key":{"_fts":"text","_ftsx":1},"name":"_id_text_name_text","ns":"hrms.currencies","default_language":"english","background":true,"language_override":"language","weights":{"_id":5,"name":1},"textIndexVersion":3}],"uuid":"3d64f081a9e5485ea3d2bfe80b854063"}

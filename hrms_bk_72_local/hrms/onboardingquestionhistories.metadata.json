@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.onboardingquestionhistories"},{"v":{"$numberInt":"2"},"unique":true,"key":{"version":{"$numberInt":"1"}},"name":"version_1","background":true,"ns":"hrms.onboardingquestionhistories"}],"uuid":"efaf6bba3bb344618ec6bd468392c0ef"}

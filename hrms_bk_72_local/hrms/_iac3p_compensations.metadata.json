@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms._iac3p_compensations"}],"uuid":"1dfa4b4128834548af5da3de4e4e0b01"}

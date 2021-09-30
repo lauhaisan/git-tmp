@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms.attachments"},{"v":2,"unique":true,"key":{"fileName":1},"name":"fileName_1","background":true,"ns":"hrms.attachments"},{"v":2,"unique":true,"key":{"path":1},"name":"path_1","ns":"hrms.attachments","background":true}],"uuid":"9c3b685e0645491f8ce10009bebdd3a4"}

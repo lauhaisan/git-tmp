@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"firstName":{"$numberInt":"1"}},"name":"firstName_1","background":true},{"v":{"$numberInt":"2"},"key":{"lastName":{"$numberInt":"1"}},"name":"lastName_1","background":true}],"uuid":"d469fbf268ca40c1bef352dd9c476805","collectionName":"_c3o8g_generalinfos"}

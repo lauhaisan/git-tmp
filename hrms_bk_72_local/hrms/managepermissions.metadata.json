@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.managepermissions"}],"uuid":"88105c8f0abd4f5c940089ab4ca2b2ad"}

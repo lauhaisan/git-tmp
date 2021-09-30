@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._employees"},{"v":2,"unique":true,"key":{"employeeId":1},"name":"employeeId_1","ns":"hrms._employees","background":true}],"uuid":"1671fb8a6ef542efabc7edc0e8dddf8e"}

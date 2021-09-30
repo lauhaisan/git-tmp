@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.projects"},{"v":{"$numberInt":"2"},"unique":true,"key":{"name":{"$numberInt":"1"},"location":{"$numberInt":"1"}},"name":"name_1_location_1","ns":"hrms.projects","background":true}],"uuid":"a5b70a307faa4d77adad67df848c6275"}

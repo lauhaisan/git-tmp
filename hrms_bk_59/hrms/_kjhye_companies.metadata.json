@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._kjhye_companies"},{"v":2,"unique":true,"key":{"code":1},"name":"code_1","ns":"hrms._kjhye_companies","background":true}],"uuid":"c5e232283c674b88ba4611658429f6df"}

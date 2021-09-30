@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hrms._dq2el_candidates"},{"v":2,"unique":true,"key":{"ticketID":1},"name":"ticketID_1","ns":"hrms._dq2el_candidates","background":true}],"uuid":"9d57dace4367414f87bfe136792f703a"}

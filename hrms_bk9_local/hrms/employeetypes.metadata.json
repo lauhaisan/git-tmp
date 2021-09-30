@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hrms.employeetypes"}],"uuid":"de25c32686cf41238fd5bd614a038d83"}
