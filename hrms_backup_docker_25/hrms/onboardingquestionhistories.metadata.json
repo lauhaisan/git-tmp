@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"version":{"$numberInt":"1"}},"name":"version_1","background":true}],"uuid":"6154d5387c574ca78622bf7b2d7ce550","collectionName":"onboardingquestionhistories"}
